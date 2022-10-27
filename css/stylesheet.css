@@ -6,11 +6,16 @@ h1{
     color: blueviolet;
 }
 
-.nav{
-    background-color: lightblue;
-    text-align: center;
+h2{
+    font-size: large;
 }
 
-#index_h1{
+nav{
+    background-color: lightblue;
+    text-align: center;
+    
+}
+
+.index_h1{
     font-family: Montserrat, sans-serif;
 }
