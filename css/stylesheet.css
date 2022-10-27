@@ -1,5 +1,5 @@
  body{
-    background-color: aquamarine;
+    background-color: #EDDDD0;
 }
 
 h1{
@@ -11,7 +11,7 @@ h2{
 }
 
 nav{
-    background-color: lightblue;
+    background-color: #A6CAD4;
     text-align: center;
     
 }
@@ -49,6 +49,6 @@ h3{
 #foot{
     grid-column: 1/3;
     grid-row: 4;
-    background-color: lightblue;
+    background-color: #A6CAD4;
     text-align: center;
 }
