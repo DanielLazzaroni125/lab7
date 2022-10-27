@@ -2,6 +2,10 @@
     background-color: #EDDDD0;
 }
 
+h1{
+    font-family: Montserrat;
+    padding-bottom: 2%;
+}
 
 h2{
     font-size: large;
@@ -10,7 +14,7 @@ h2{
 nav{
     background-color: #A6CAD4;
     text-align: center;
-    
+
 }
 
 .index_h1{
@@ -48,4 +52,18 @@ h3{
     grid-row: 4;
     background-color: #A6CAD4;
     text-align: center;
+}
+
+li{
+    list-style-type: none;
+}
+.links{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+
+}
+
+a{
+    padding: 5px;
 }
