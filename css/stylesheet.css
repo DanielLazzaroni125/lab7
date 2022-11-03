@@ -75,4 +75,7 @@ a{
         background-color: black;
         height: 1px;
     }
+    ul li{
+        display: inline;
+    }
 }
