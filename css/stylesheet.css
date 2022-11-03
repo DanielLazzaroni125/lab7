@@ -13,7 +13,7 @@ li{
 header{
     background-color: #A6CAD4;
     text-align: center;
-
+    color: #334259;
 }
 
 .index_h1{
@@ -49,6 +49,7 @@ h3{
 footer{
     background-color: #A6CAD4;
     text-align: center;
+    color: #334259;
 }
 
 li{
@@ -63,4 +64,8 @@ li{
 
 a{
     padding: 5px;
+}
+
+.nav_li{
+    padding-bottom: 10px;
 }
