@@ -69,3 +69,10 @@ a{
 .nav_li{
     padding-bottom: 10px;
 }
+
+@media(min-width: 600px){
+    hr{
+        background-color: black;
+        height: 1px;
+    }
+}
